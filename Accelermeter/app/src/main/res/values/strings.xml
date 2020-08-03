@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Accelermeter</string>
+    <string name="accelZ">value of Z</string>
+    <string name="accelY">value of Y</string>
+    <string name="accelX">value of X</string>
+    <string name="gyroZ">value of Z</string>
+    <string name="gyroY">value of Y</string>
+    <string name="gyroX">value of X</string>
+    <string name="gyroscope">Gyroscope</string>
+    <string name="accel">Accelermeter</string>
+    <string name="direction">→</string>
+</resources>
